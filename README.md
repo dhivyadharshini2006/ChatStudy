@@ -140,8 +140,8 @@ if __name__ == '__main__':
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/253814ba-4287-41d2-9125-58aaa2cd19fe)
 
+![image](https://github.com/user-attachments/assets/d23eeafe-ec1d-4156-8744-8adf8a7a8882)
 
 ## Result:
 
